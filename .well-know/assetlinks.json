@@ -7,7 +7,9 @@
             "namespace": "android_app",
             "package_name": "com.speedytech.app",
             "sha256_cert_fingerprints": [
-                "1F:8F:C8:0B:D9:7B:2C:84:3D:29:5F:E9:FD:BD:7F:0D:65:38:B3:07:AF:5B:BF:4D:4F:E7:B8:82:E6:A7:72:32"
+                
+                "1F:8F:C8:0B:D9:7B:2C:84:3D:29:5F:E9:FD:BD:7F:0D:65:38:B3:07:AF:5B:BF:4D:4F:E7:B8:82:E6:A7:72:32",
+                "A6:21:50:02:CF:BF:8E:25:5C:E2:A7:25:59:18:D5:04:79:FD:5E:BE:4B:59:1E:37:57:C4:EB:BB:7E:0D:62:19"
             ]
         }
     }
