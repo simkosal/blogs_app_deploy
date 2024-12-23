@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.speedytech.app",
+            "sha256_cert_fingerprints": [
+                "1F:8F:C8:0B:D9:7B:2C:84:3D:29:5F:E9:FD:BD:7F:0D:65:38:B3:07:AF:5B:BF:4D:4F:E7:B8:82:E6:A7:72:32"
+            ]
+        }
+    }
+]
