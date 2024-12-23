@@ -7,7 +7,17 @@
 </head>
 <body>
     <h1>Product Details</h1>
-    <p>Product ID: 1</p>
-    <!-- Add more product details as needed -->
+
+    <script>
+        // Get the product ID from the URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const productId = urlParams.get('id');
+        
+        if (productId) {
+            document.write(`<p>Product ID: ${productId}</p>`);
+        } else {
+            document.write('<p>Product ID not found</p>');
+        }
+    </script>
 </body>
 </html>
